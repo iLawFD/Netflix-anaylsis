@@ -1,6 +1,6 @@
 # This is a beginner friendly notebook for data scientists .We will be exploring the Netflix user base data set
 
-*There is no ML included in this project, so it is for Data Analysist also*
+*There is no ML included in this project, so it is for Data Analysts also*
 
 # Exploring:
 - First i tried to Explore the dataset, the coulmns, and their data types
