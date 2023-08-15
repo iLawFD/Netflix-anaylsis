@@ -1,4 +1,4 @@
-# This is a beginder friendly notebook for data scientists. We will be exploring the Netflix user base data set
+# This is a beginner friendly notebook for data scientists. We will be exploring the Netflix user base data set
 
 # Exploring:
 - First i tried to Explore the dataset, the coulmns, and their data types
